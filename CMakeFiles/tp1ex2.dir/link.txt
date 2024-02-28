@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/tp1ex2.dir/person.cpp.o CMakeFiles/tp1ex2.dir/student.cpp.o CMakeFiles/tp1ex2.dir/main.cpp.o -o tp1ex2 
